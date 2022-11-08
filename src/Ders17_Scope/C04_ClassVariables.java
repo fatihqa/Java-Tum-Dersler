@@ -1,4 +1,4 @@
-package Ders17_Scope;
+package ders17_Scope;
 
 public class C04_ClassVariables {
     public static void main(String[] args) {

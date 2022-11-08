@@ -1,4 +1,4 @@
-package Ders17_Scope;
+package ders17_Scope;
 
 public class C02_ClassLevelVariables {
 

@@ -1,4 +1,4 @@
-package Ders17_Scope;
+package ders17_Scope;
 public class C03_ObjectVariables {
     public static String hastaneismi="Yildiz hastanesi";
     static int hastaSayisi= 23453;

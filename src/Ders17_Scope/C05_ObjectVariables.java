@@ -1,6 +1,4 @@
-package Ders17_Scope;
-
-import java.util.Scanner;
+package ders17_Scope;
 
 public class C05_ObjectVariables {
     public static void main(String[] args) {

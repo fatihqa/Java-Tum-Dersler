@@ -1,4 +1,4 @@
-package Ders17_Scope;
+package ders17_Scope;
 public class C01_LocalVariables {
     public static void main(String[] args) {
         // bir method'un icerisinde olusturulan variable'larin scope'u  //Scope: Nerelere ulasablılır nerelerde kullanılabılır
